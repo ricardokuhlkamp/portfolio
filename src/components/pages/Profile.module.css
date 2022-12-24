@@ -1,0 +1,35 @@
+.perfil {
+  width: 200px;
+  border-radius: 15px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.container_01 {
+  width: 80%;  
+  display: flex;
+  margin: 0 auto;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.container_02 {
+  background-color: #ced4da;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.container_01 h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.container_01 h2 {
+  font-size: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.container_01 p {
+  font-size: 1.1rem;
+  margin-bottom: 0.7rem;
+}
