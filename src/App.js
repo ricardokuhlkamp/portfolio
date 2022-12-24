@@ -19,6 +19,7 @@ class App extends React.Component {
           <Navbar />
           <Switch>
             <Container customClass="min-height">
+              <Route path="/portfolio" component={Profile} />
               <Route exact path="/" component={Profile} />
               <Route path="/experiencia" component={Experiencia} />
               <Route path="/formacao" component={FormacaoAcademica} />
