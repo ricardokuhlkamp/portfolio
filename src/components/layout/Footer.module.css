@@ -33,3 +33,9 @@
   font-weight: bold;
   color: #F9AB55;
 }
+
+@media screen and (max-width: 570px) {
+  .copy_rigth {
+    font-size: 85%;
+  }
+}

@@ -11,7 +11,7 @@ class Habilidades extends Component {
           <div className={styles.container_03}>
             <div className={styles.container_04}>
               <div className={styles.container_05}>
-                <h2>HardSkills</h2>
+                <h4>HardSkills</h4>
                 <p>HTML <FaHtml5 /></p>
                 <p>CSS <FaCss3 /></p>
                 <p>Javascript <FaJs /></p>

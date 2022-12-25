@@ -50,3 +50,8 @@
   border-radius: 5px;
 }
 
+@media screen and (max-width: 570px) {
+  .container_02 h1 {
+    font-size: 1.5rem;
+  }
+}

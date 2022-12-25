@@ -24,3 +24,27 @@
 .item a:hover {
   color: #F9AB55;
 }
+
+
+@media screen and (max-width: 570px) {
+  .navbar {
+    font-size: 65%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0.5%;
+    width: 100%;
+  }
+
+  .list {
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+    margin-left: 0;
+    width: 55%;
+  }
+
+  .item {
+    margin-right: 1.4%;
+    margin-left: 1.4%;
+  }
+}
