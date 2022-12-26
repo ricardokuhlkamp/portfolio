@@ -18,7 +18,7 @@ class App extends React.Component {
         <BrowserRouter>
           <Navbar />
           <Switch>
-            <Container customClass="min-height">
+            {/* <Container customClass="min-height"> */}
               <Route path="/portfolio" component={Profile} />
               <Route exact path="/" component={Profile} />
               <Route path="/experiencia" component={Experiencia} />
@@ -26,7 +26,7 @@ class App extends React.Component {
               <Route path="/habilidades" component={Habilidades} />
               <Route path="/projetos" component={Projetos} />
               <Route path="/contato" component={Contato} />
-            </Container>
+            {/* </Container> */}
           </Switch>
           <Footer />
         </BrowserRouter>

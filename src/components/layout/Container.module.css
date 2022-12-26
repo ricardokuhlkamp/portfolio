@@ -1,12 +1,12 @@
-.container {
+/* .container {
   width: 100%;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  flex-wrap: wrap;
+  flex-wrap: wrap; */
   /* height: 100vh; */
-}
-
+/* } */
+/* 
 .min-height {
   min-height: 75%;
 }
@@ -18,4 +18,4 @@
 .column {
   flex-direction: column;
   justify-content: flex-start;
-}
+} */
