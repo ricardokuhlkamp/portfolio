@@ -6,7 +6,7 @@ import Experiencia from './components/pages/Experiencia';
 import FormacaoAcademica from './components/pages/FormacaoAcademica';
 import Habilidades from './components/pages/Habilidades';
 import Footer from './components/layout/Footer';
-import Container from './components/layout/Container';
+// import Container from './components/layout/Container';
 import Projetos from './components/pages/Projetos';
 import Contato from './components/pages/Contato';
 
