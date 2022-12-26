@@ -7,7 +7,7 @@ import FormacaoAcademica from './components/pages/FormacaoAcademica';
 import Habilidades from './components/pages/Habilidades';
 import Footer from './components/layout/Footer';
 import Container from './components/layout/Container';
-import Endereco from './components/pages/Endereco';
+import Projetos from './components/pages/Projetos';
 import Contato from './components/pages/Contato';
 
 
@@ -24,7 +24,7 @@ class App extends React.Component {
               <Route path="/experiencia" component={Experiencia} />
               <Route path="/formacao" component={FormacaoAcademica} />
               <Route path="/habilidades" component={Habilidades} />
-              <Route path="/endereco" component={Endereco} />
+              <Route path="/projetos" component={Projetos} />
               <Route path="/contato" component={Contato} />
             </Container>
           </Switch>

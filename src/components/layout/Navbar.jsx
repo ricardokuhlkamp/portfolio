@@ -20,7 +20,7 @@ class Navbar extends Component {
             <Link to="/habilidades">Habilidades</Link>
           </li>
           <li className={ styles.item }>
-            <Link to="/endereco">Endereço</Link>
+            <Link to="/projetos">Projetos</Link>
           </li>
           <li className={ styles.item }>
             <Link to="/contato">Contato</Link>
